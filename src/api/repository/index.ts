@@ -1,0 +1,11 @@
+export * from './campo-anexo.repository';
+export * from './actividad.repository';
+export * from './empresa.repository';
+export * from './estado-agencia.repository ';
+export * from './tipo-sucursal.repository';
+export * from './empresa.repository';
+export * from './log-sucursal.repository';
+export * from './dia-feriado.repository';
+export * from './usuario.repository';
+export * from './horario-laboral.repository';
+export * from './sucursal.repository';
